@@ -1,3 +1,7 @@
-a:visited {
+a:visited{
+    color:lightblue
+}
+
+a:hover {
     color:lightblue
 }
